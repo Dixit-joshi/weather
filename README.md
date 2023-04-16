@@ -16,7 +16,9 @@ To use this weather app, you can either clone the repository or download the sou
 To use the weather app, follow these steps:
 
 Enter the name of a city in the search bar and click the "Search" button.
+
 The app will retrieve the current weather for that location using an API key and display it on the screen.
+
 To search for weather for another city, simply repeat step 1.
 
 # Contributing
