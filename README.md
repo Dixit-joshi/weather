@@ -1,6 +1,8 @@
  
 # Weather App
 This is a weather app made with HTML and CSS that allows users to enter a city and get the current weather for that location using an API key.
+![project2](https://user-images.githubusercontent.com/126357160/232266597-43f84e13-58a8-423c-b40d-b49a9432e97e.png)
+
 
 # Table of Contents
 -Installation
